@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tpyth0n@hotmail.com
+	name = Jeremy Thorpe
